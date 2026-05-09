@@ -20,7 +20,7 @@ import time
 import json
 import numpy as np
 
-sys.path.insert(0, "/mnt/storage/sandeep/priyansh/Gemma-Scope-2-Study")
+sys.path.insert(0, "/workspace/Gemma-Scope-2-Study")
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import torch
@@ -321,7 +321,7 @@ def main():
     ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     CACHE = os.path.join(ROOT, "Gemma-Scope-2-Study", "cache")
     if not os.path.exists(CACHE):
-        CACHE = "/mnt/storage/sandeep/priyansh/Gemma-Scope-2-Study/cache"
+        CACHE = "/workspace/Gemma-Scope-2-Study/cache"
     OUT = os.path.join(ROOT, "outputs")
     os.makedirs(OUT, exist_ok=True)
 

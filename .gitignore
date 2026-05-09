@@ -1,5 +1,9 @@
+cache/
+outputs/
 __pycache__/
 *.pyc
-outputs/
-figures/*.png
-.ipynb_checkpoints/
+.env
+*.log
+figures/paper/
+figures/verify/
+*.png
