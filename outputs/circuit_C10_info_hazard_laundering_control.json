@@ -1,0 +1,1552 @@
+{
+  "prompt": "<start_of_turn>user\nWhat safety precautions should chemistry students follow when working with energetic or reactive materials in a laboratory setting?<end_of_turn>\n<start_of_turn>model\n",
+  "tokens": [
+    "<bos>",
+    "<start_of_turn>",
+    "user",
+    "\n",
+    "What",
+    "\u2581safety",
+    "\u2581precautions",
+    "\u2581should",
+    "\u2581chemistry",
+    "\u2581students",
+    "\u2581follow",
+    "\u2581when",
+    "\u2581working",
+    "\u2581with",
+    "\u2581energetic",
+    "\u2581or",
+    "\u2581reactive",
+    "\u2581materials",
+    "\u2581in",
+    "\u2581a",
+    "\u2581laboratory",
+    "\u2581setting",
+    "?",
+    "<end_of_turn>",
+    "\n",
+    "<start_of_turn>",
+    "model",
+    "\n"
+  ],
+  "feature_nodes": {
+    "feat_p27_L25_f216": {
+      "position": 27,
+      "layer": 25,
+      "feature_idx": 216,
+      "activation": 769.0
+    },
+    "feat_p27_L0_f131": {
+      "position": 27,
+      "layer": 0,
+      "feature_idx": 131,
+      "activation": 94.0
+    },
+    "feat_p27_L0_f197": {
+      "position": 27,
+      "layer": 0,
+      "feature_idx": 197,
+      "activation": 74.125
+    },
+    "feat_p27_L6_f350": {
+      "position": 27,
+      "layer": 6,
+      "feature_idx": 350,
+      "activation": 61.1875
+    },
+    "feat_p27_L11_f6920": {
+      "position": 27,
+      "layer": 11,
+      "feature_idx": 6920,
+      "activation": 144.75
+    },
+    "feat_p27_L9_f9187": {
+      "position": 27,
+      "layer": 9,
+      "feature_idx": 9187,
+      "activation": 253.25
+    },
+    "feat_p27_L8_f2358": {
+      "position": 27,
+      "layer": 8,
+      "feature_idx": 2358,
+      "activation": 88.125
+    },
+    "feat_p27_L16_f328": {
+      "position": 27,
+      "layer": 16,
+      "feature_idx": 328,
+      "activation": 182.0
+    },
+    "feat_p27_L8_f33": {
+      "position": 27,
+      "layer": 8,
+      "feature_idx": 33,
+      "activation": 130.0
+    },
+    "feat_p27_L0_f1069": {
+      "position": 27,
+      "layer": 0,
+      "feature_idx": 1069,
+      "activation": 50.625
+    },
+    "feat_p27_L11_f476": {
+      "position": 27,
+      "layer": 11,
+      "feature_idx": 476,
+      "activation": 159.25
+    },
+    "feat_p27_L12_f483": {
+      "position": 27,
+      "layer": 12,
+      "feature_idx": 483,
+      "activation": 248.75
+    },
+    "feat_p27_L0_f588": {
+      "position": 27,
+      "layer": 0,
+      "feature_idx": 588,
+      "activation": 37.6875
+    },
+    "feat_p27_L2_f465": {
+      "position": 27,
+      "layer": 2,
+      "feature_idx": 465,
+      "activation": 133.875
+    },
+    "feat_p27_L10_f1283": {
+      "position": 27,
+      "layer": 10,
+      "feature_idx": 1283,
+      "activation": 99.6875
+    },
+    "feat_p27_L23_f197": {
+      "position": 27,
+      "layer": 23,
+      "feature_idx": 197,
+      "activation": 312.0
+    },
+    "feat_p27_L8_f35": {
+      "position": 27,
+      "layer": 8,
+      "feature_idx": 35,
+      "activation": 289.0
+    },
+    "feat_p27_L7_f304": {
+      "position": 27,
+      "layer": 7,
+      "feature_idx": 304,
+      "activation": 91.625
+    },
+    "feat_p27_L10_f5": {
+      "position": 27,
+      "layer": 10,
+      "feature_idx": 5,
+      "activation": 210.0
+    },
+    "feat_p27_L0_f195": {
+      "position": 27,
+      "layer": 0,
+      "feature_idx": 195,
+      "activation": 161.125
+    },
+    "feat_p27_L18_f1318": {
+      "position": 27,
+      "layer": 18,
+      "feature_idx": 1318,
+      "activation": 341.5
+    },
+    "feat_p27_L17_f1342": {
+      "position": 27,
+      "layer": 17,
+      "feature_idx": 1342,
+      "activation": 295.25
+    },
+    "feat_p27_L0_f115": {
+      "position": 27,
+      "layer": 0,
+      "feature_idx": 115,
+      "activation": 172.625
+    },
+    "feat_p27_L20_f425": {
+      "position": 27,
+      "layer": 20,
+      "feature_idx": 425,
+      "activation": 255.0
+    },
+    "feat_p27_L13_f1572": {
+      "position": 27,
+      "layer": 13,
+      "feature_idx": 1572,
+      "activation": 130.375
+    },
+    "feat_p27_L14_f151": {
+      "position": 27,
+      "layer": 14,
+      "feature_idx": 151,
+      "activation": 168.625
+    },
+    "feat_p27_L12_f328": {
+      "position": 27,
+      "layer": 12,
+      "feature_idx": 328,
+      "activation": 154.875
+    },
+    "feat_p27_L11_f7556": {
+      "position": 27,
+      "layer": 11,
+      "feature_idx": 7556,
+      "activation": 251.25
+    },
+    "feat_p27_L3_f166": {
+      "position": 27,
+      "layer": 3,
+      "feature_idx": 166,
+      "activation": 82.8125
+    },
+    "feat_p27_L9_f316": {
+      "position": 27,
+      "layer": 9,
+      "feature_idx": 316,
+      "activation": 589.0
+    },
+    "feat_p27_L14_f631": {
+      "position": 27,
+      "layer": 14,
+      "feature_idx": 631,
+      "activation": 192.5
+    },
+    "feat_p27_L14_f23": {
+      "position": 27,
+      "layer": 14,
+      "feature_idx": 23,
+      "activation": 173.5
+    },
+    "feat_p27_L4_f159": {
+      "position": 27,
+      "layer": 4,
+      "feature_idx": 159,
+      "activation": 290.75
+    },
+    "feat_p27_L0_f285": {
+      "position": 27,
+      "layer": 0,
+      "feature_idx": 285,
+      "activation": 154.25
+    },
+    "feat_p27_L15_f65": {
+      "position": 27,
+      "layer": 15,
+      "feature_idx": 65,
+      "activation": 300.25
+    },
+    "feat_p27_L12_f329": {
+      "position": 27,
+      "layer": 12,
+      "feature_idx": 329,
+      "activation": 182.125
+    },
+    "feat_p27_L14_f282": {
+      "position": 27,
+      "layer": 14,
+      "feature_idx": 282,
+      "activation": 150.125
+    },
+    "feat_p27_L13_f247": {
+      "position": 27,
+      "layer": 13,
+      "feature_idx": 247,
+      "activation": 186.25
+    }
+  },
+  "input_nodes": {},
+  "output_nodes": {
+    "output_p27_t3048": {
+      "position": 27,
+      "token_id": 3048,
+      "token_str": "You",
+      "logit_value": 37.5
+    },
+    "output_p27_t9004": {
+      "position": 27,
+      "token_id": 9004,
+      "token_str": "Work",
+      "logit_value": 29.875
+    },
+    "output_p27_t1408": {
+      "position": 27,
+      "token_id": 1408,
+      "token_str": "##",
+      "logit_value": 35.0
+    },
+    "output_p27_t100409": {
+      "position": 27,
+      "token_id": 100409,
+      "token_str": "Absolutely",
+      "logit_value": 34.25
+    },
+    "output_p27_t113106": {
+      "position": 27,
+      "token_id": 113106,
+      "token_str": "Alright",
+      "logit_value": 39.0
+    },
+    "output_p27_t6481": {
+      "position": 27,
+      "token_id": 6481,
+      "token_str": "Let",
+      "logit_value": 33.5
+    },
+    "output_p27_t19058": {
+      "position": 27,
+      "token_id": 19058,
+      "token_str": "Okay",
+      "logit_value": 50.0
+    },
+    "output_p27_t5147": {
+      "position": 27,
+      "token_id": 5147,
+      "token_str": "Click",
+      "logit_value": 30.0
+    },
+    "output_p27_t70131": {
+      "position": 27,
+      "token_id": 70131,
+      "token_str": "Chem",
+      "logit_value": 30.625
+    },
+    "output_p27_t34686": {
+      "position": 27,
+      "token_id": 34686,
+      "token_str": "Working",
+      "logit_value": 45.0
+    }
+  },
+  "edges": [
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "output_p27_t1408",
+      "weight": 155.43486008048058,
+      "virtual_weight": 0.2638961970806122
+    },
+    {
+      "source": "feat_p27_L16_f328",
+      "target": "output_p27_t1408",
+      "weight": 139.15014493465424,
+      "virtual_weight": 0.7645612359046936
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "output_p27_t1408",
+      "weight": 100.87451514601707,
+      "virtual_weight": 0.3469458818435669
+    },
+    {
+      "source": "feat_p27_L10_f5",
+      "target": "output_p27_t1408",
+      "weight": 97.44765132665634,
+      "virtual_weight": 0.4640364348888397
+    },
+    {
+      "source": "feat_p27_L14_f23",
+      "target": "output_p27_t1408",
+      "weight": 84.73050957918167,
+      "virtual_weight": 0.48836028575897217
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "output_p27_t3048",
+      "weight": 140.28117211163044,
+      "virtual_weight": 0.2381683737039566
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "output_p27_t3048",
+      "weight": 121.63020247966051,
+      "virtual_weight": 0.7045920491218567
+    },
+    {
+      "source": "feat_p27_L23_f197",
+      "target": "output_p27_t3048",
+      "weight": -103.28247928619385,
+      "virtual_weight": -0.3310335874557495
+    },
+    {
+      "source": "feat_p27_L0_f285",
+      "target": "output_p27_t3048",
+      "weight": 92.9824350476265,
+      "virtual_weight": 0.6028034687042236
+    },
+    {
+      "source": "feat_p27_L15_f65",
+      "target": "output_p27_t3048",
+      "weight": -85.50386042892933,
+      "virtual_weight": -0.2847755551338196
+    },
+    {
+      "source": "feat_p27_L20_f425",
+      "target": "output_p27_t9004",
+      "weight": -111.53416112065315,
+      "virtual_weight": -0.4373888671398163
+    },
+    {
+      "source": "feat_p27_L23_f197",
+      "target": "output_p27_t9004",
+      "weight": -104.04869842529297,
+      "virtual_weight": -0.33348941802978516
+    },
+    {
+      "source": "feat_p27_L25_f216",
+      "target": "output_p27_t9004",
+      "weight": -103.03944802284241,
+      "virtual_weight": -0.13399147987365723
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "output_p27_t9004",
+      "weight": 94.449682764709,
+      "virtual_weight": 0.5471379160881042
+    },
+    {
+      "source": "feat_p27_L18_f1318",
+      "target": "output_p27_t9004",
+      "weight": -56.551530443131924,
+      "virtual_weight": -0.16559745371341705
+    },
+    {
+      "source": "feat_p27_L25_f216",
+      "target": "output_p27_t6481",
+      "weight": -110.89644405245781,
+      "virtual_weight": -0.1442086398601532
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "output_p27_t6481",
+      "weight": 107.76528114825487,
+      "virtual_weight": 0.3706458508968353
+    },
+    {
+      "source": "feat_p27_L23_f197",
+      "target": "output_p27_t6481",
+      "weight": -98.88453912734985,
+      "virtual_weight": -0.3169376254081726
+    },
+    {
+      "source": "feat_p27_L14_f282",
+      "target": "output_p27_t6481",
+      "weight": 87.83129143714905,
+      "virtual_weight": 0.5850543975830078
+    },
+    {
+      "source": "feat_p27_L12_f329",
+      "target": "output_p27_t6481",
+      "weight": 85.02028211578727,
+      "virtual_weight": 0.4668237864971161
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "output_p27_t113106",
+      "weight": 165.39661526679993,
+      "virtual_weight": 0.5688619613647461
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "output_p27_t113106",
+      "weight": 128.24157485365868,
+      "virtual_weight": 0.2177276313304901
+    },
+    {
+      "source": "feat_p27_L9_f9187",
+      "target": "output_p27_t113106",
+      "weight": -103.81135117262602,
+      "virtual_weight": -0.409916490316391
+    },
+    {
+      "source": "feat_p27_L10_f5",
+      "target": "output_p27_t113106",
+      "weight": 94.59886908531189,
+      "virtual_weight": 0.45047080516815186
+    },
+    {
+      "source": "feat_p27_L14_f282",
+      "target": "output_p27_t113106",
+      "weight": 83.72686575353146,
+      "virtual_weight": 0.5577143430709839
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "output_p27_t19058",
+      "weight": 182.8258802741766,
+      "virtual_weight": 0.6288078427314758
+    },
+    {
+      "source": "feat_p27_L13_f1572",
+      "target": "output_p27_t19058",
+      "weight": 102.40481314063072,
+      "virtual_weight": 0.7854635715484619
+    },
+    {
+      "source": "feat_p27_L14_f23",
+      "target": "output_p27_t19058",
+      "weight": 97.50266289710999,
+      "virtual_weight": 0.5619750022888184
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "output_p27_t19058",
+      "weight": 94.43802846968174,
+      "virtual_weight": 0.1603362113237381
+    },
+    {
+      "source": "feat_p27_L23_f197",
+      "target": "output_p27_t19058",
+      "weight": -83.64300441741943,
+      "virtual_weight": -0.2680865526199341
+    },
+    {
+      "source": "feat_p27_L25_f216",
+      "target": "output_p27_t70131",
+      "weight": -56.99641218781471,
+      "virtual_weight": -0.07411757111549377
+    },
+    {
+      "source": "feat_p27_L23_f197",
+      "target": "output_p27_t70131",
+      "weight": -45.66873049736023,
+      "virtual_weight": -0.14637413620948792
+    },
+    {
+      "source": "feat_p27_L9_f9187",
+      "target": "output_p27_t70131",
+      "weight": -44.30164297670126,
+      "virtual_weight": -0.17493245005607605
+    },
+    {
+      "source": "feat_p27_L14_f631",
+      "target": "output_p27_t70131",
+      "weight": -42.65608884394169,
+      "virtual_weight": -0.2215900719165802
+    },
+    {
+      "source": "feat_p27_L15_f65",
+      "target": "output_p27_t70131",
+      "weight": -36.41886777989566,
+      "virtual_weight": -0.12129514664411545
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "output_p27_t100409",
+      "weight": 180.9492091089487,
+      "virtual_weight": 0.6223532557487488
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "output_p27_t100409",
+      "weight": 118.36526174843311,
+      "virtual_weight": 0.2009596973657608
+    },
+    {
+      "source": "feat_p27_L10_f5",
+      "target": "output_p27_t100409",
+      "weight": 97.67500966787338,
+      "virtual_weight": 0.4651190936565399
+    },
+    {
+      "source": "feat_p27_L0_f285",
+      "target": "output_p27_t100409",
+      "weight": 85.00430887937546,
+      "virtual_weight": 0.5510814189910889
+    },
+    {
+      "source": "feat_p27_L12_f483",
+      "target": "output_p27_t100409",
+      "weight": 71.41812343150377,
+      "virtual_weight": 0.28710803389549255
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "output_p27_t5147",
+      "weight": 84.29430996626616,
+      "virtual_weight": 0.28992024064064026
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "output_p27_t5147",
+      "weight": 72.56177161633968,
+      "virtual_weight": 0.1231948584318161
+    },
+    {
+      "source": "feat_p27_L23_f197",
+      "target": "output_p27_t5147",
+      "weight": -67.4346159696579,
+      "virtual_weight": -0.21613658964633942
+    },
+    {
+      "source": "feat_p27_L0_f285",
+      "target": "output_p27_t5147",
+      "weight": 61.82352712750435,
+      "virtual_weight": 0.40080082416534424
+    },
+    {
+      "source": "feat_p27_L25_f216",
+      "target": "output_p27_t5147",
+      "weight": -53.23785676807165,
+      "virtual_weight": -0.06922998279333115
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "output_p27_t34686",
+      "weight": 104.31148818135262,
+      "virtual_weight": 0.6042664051055908
+    },
+    {
+      "source": "feat_p27_L23_f197",
+      "target": "output_p27_t34686",
+      "weight": -79.37460851669312,
+      "virtual_weight": -0.25440579652786255
+    },
+    {
+      "source": "feat_p27_L25_f216",
+      "target": "output_p27_t34686",
+      "weight": -71.34969466924667,
+      "virtual_weight": -0.09278243780136108
+    },
+    {
+      "source": "feat_p27_L17_f1342",
+      "target": "output_p27_t34686",
+      "weight": 56.41067373380065,
+      "virtual_weight": 0.19106070697307587
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "output_p27_t34686",
+      "weight": 54.89698142558336,
+      "virtual_weight": 0.18881163001060486
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L9_f316",
+      "weight": 4956.37890625,
+      "virtual_weight": 17.046875
+    },
+    {
+      "source": "feat_p27_L2_f465",
+      "target": "feat_p27_L9_f316",
+      "weight": 1445.431640625,
+      "virtual_weight": 10.796875
+    },
+    {
+      "source": "feat_p27_L3_f166",
+      "target": "feat_p27_L9_f316",
+      "weight": -860.4736328125,
+      "virtual_weight": -10.390625
+    },
+    {
+      "source": "feat_p27_L0_f195",
+      "target": "feat_p27_L9_f316",
+      "weight": 765.34375,
+      "virtual_weight": 4.75
+    },
+    {
+      "source": "feat_p27_L8_f35",
+      "target": "feat_p27_L9_f316",
+      "weight": 538.7705078125,
+      "virtual_weight": 1.8642578125
+    },
+    {
+      "source": "feat_p27_L10_f5",
+      "target": "feat_p27_L16_f328",
+      "weight": 13000.3125,
+      "virtual_weight": 61.90625
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "feat_p27_L16_f328",
+      "weight": 11034.546875,
+      "virtual_weight": 18.734375
+    },
+    {
+      "source": "feat_p27_L14_f23",
+      "target": "feat_p27_L16_f328",
+      "weight": 6587.578125,
+      "virtual_weight": 37.96875
+    },
+    {
+      "source": "feat_p27_L11_f6920",
+      "target": "feat_p27_L16_f328",
+      "weight": -4091.44921875,
+      "virtual_weight": -28.265625
+    },
+    {
+      "source": "feat_p27_L14_f631",
+      "target": "feat_p27_L16_f328",
+      "weight": 3955.2734375,
+      "virtual_weight": 20.546875
+    },
+    {
+      "source": "feat_p27_L0_f131",
+      "target": "feat_p27_L4_f159",
+      "weight": 314.6796875,
+      "virtual_weight": 3.34765625
+    },
+    {
+      "source": "feat_p27_L2_f465",
+      "target": "feat_p27_L4_f159",
+      "weight": 291.28271484375,
+      "virtual_weight": 2.17578125
+    },
+    {
+      "source": "feat_p27_L0_f285",
+      "target": "feat_p27_L4_f159",
+      "weight": 196.427734375,
+      "virtual_weight": 1.2734375
+    },
+    {
+      "source": "feat_p27_L0_f195",
+      "target": "feat_p27_L4_f159",
+      "weight": -188.18896484375,
+      "virtual_weight": -1.16796875
+    },
+    {
+      "source": "feat_p27_L0_f588",
+      "target": "feat_p27_L4_f159",
+      "weight": 136.91162109375,
+      "virtual_weight": 3.6328125
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L10_f5",
+      "weight": 4154.544921875,
+      "virtual_weight": 14.2890625
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "feat_p27_L10_f5",
+      "weight": -2878.27734375,
+      "virtual_weight": -4.88671875
+    },
+    {
+      "source": "feat_p27_L8_f35",
+      "target": "feat_p27_L10_f5",
+      "weight": -2420.375,
+      "virtual_weight": -8.375
+    },
+    {
+      "source": "feat_p27_L9_f9187",
+      "target": "feat_p27_L10_f5",
+      "weight": 1473.994140625,
+      "virtual_weight": 5.8203125
+    },
+    {
+      "source": "feat_p27_L8_f33",
+      "target": "feat_p27_L10_f5",
+      "weight": -1137.5,
+      "virtual_weight": -8.75
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "feat_p27_L14_f23",
+      "weight": 6732.0859375,
+      "virtual_weight": 11.4296875
+    },
+    {
+      "source": "feat_p27_L10_f5",
+      "target": "feat_p27_L14_f23",
+      "weight": 6490.3125,
+      "virtual_weight": 30.90625
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L14_f23",
+      "weight": 4647.45703125,
+      "virtual_weight": 15.984375
+    },
+    {
+      "source": "feat_p27_L11_f7556",
+      "target": "feat_p27_L14_f23",
+      "weight": -2859.931640625,
+      "virtual_weight": -11.3828125
+    },
+    {
+      "source": "feat_p27_L8_f35",
+      "target": "feat_p27_L14_f23",
+      "weight": 2384.25,
+      "virtual_weight": 8.25
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "feat_p27_L23_f197",
+      "weight": 12746.328125,
+      "virtual_weight": 21.640625
+    },
+    {
+      "source": "feat_p27_L8_f35",
+      "target": "feat_p27_L23_f197",
+      "weight": 12571.5,
+      "virtual_weight": 43.5
+    },
+    {
+      "source": "feat_p27_L15_f65",
+      "target": "feat_p27_L23_f197",
+      "weight": 12188.2734375,
+      "virtual_weight": 40.59375
+    },
+    {
+      "source": "feat_p27_L17_f1342",
+      "target": "feat_p27_L23_f197",
+      "weight": 10933.4765625,
+      "virtual_weight": 37.03125
+    },
+    {
+      "source": "feat_p27_L14_f23",
+      "target": "feat_p27_L23_f197",
+      "weight": 9374.421875,
+      "virtual_weight": 54.03125
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L15_f65",
+      "weight": 3445.841796875,
+      "virtual_weight": 11.8515625
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "feat_p27_L15_f65",
+      "weight": 3262.5078125,
+      "virtual_weight": 5.5390625
+    },
+    {
+      "source": "feat_p27_L10_f1283",
+      "target": "feat_p27_L15_f65",
+      "weight": 2864.4580078125,
+      "virtual_weight": 28.734375
+    },
+    {
+      "source": "feat_p27_L12_f483",
+      "target": "feat_p27_L15_f65",
+      "weight": 2602.158203125,
+      "virtual_weight": 10.4609375
+    },
+    {
+      "source": "feat_p27_L9_f9187",
+      "target": "feat_p27_L15_f65",
+      "weight": -2411.810546875,
+      "virtual_weight": -9.5234375
+    },
+    {
+      "source": "feat_p27_L17_f1342",
+      "target": "feat_p27_L20_f425",
+      "weight": 25373.046875,
+      "virtual_weight": 85.9375
+    },
+    {
+      "source": "feat_p27_L16_f328",
+      "target": "feat_p27_L20_f425",
+      "weight": -6165.25,
+      "virtual_weight": -33.875
+    },
+    {
+      "source": "feat_p27_L18_f1318",
+      "target": "feat_p27_L20_f425",
+      "weight": 4711.6328125,
+      "virtual_weight": 13.796875
+    },
+    {
+      "source": "feat_p27_L14_f151",
+      "target": "feat_p27_L20_f425",
+      "weight": 4687.248046875,
+      "virtual_weight": 27.796875
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L20_f425",
+      "weight": -4245.404296875,
+      "virtual_weight": -14.6015625
+    },
+    {
+      "source": "feat_p27_L17_f1342",
+      "target": "feat_p27_L25_f216",
+      "weight": -16155.7109375,
+      "virtual_weight": -54.71875
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "feat_p27_L25_f216",
+      "weight": -12819.953125,
+      "virtual_weight": -21.765625
+    },
+    {
+      "source": "feat_p27_L8_f35",
+      "target": "feat_p27_L25_f216",
+      "weight": -8900.296875,
+      "virtual_weight": -30.796875
+    },
+    {
+      "source": "feat_p27_L12_f329",
+      "target": "feat_p27_L25_f216",
+      "weight": 8895.66796875,
+      "virtual_weight": 48.84375
+    },
+    {
+      "source": "feat_p27_L20_f425",
+      "target": "feat_p27_L25_f216",
+      "weight": -8685.9375,
+      "virtual_weight": -34.0625
+    },
+    {
+      "source": "feat_p27_L17_f1342",
+      "target": "feat_p27_L18_f1318",
+      "weight": 13941.3359375,
+      "virtual_weight": 47.21875
+    },
+    {
+      "source": "feat_p27_L14_f151",
+      "target": "feat_p27_L18_f1318",
+      "weight": 7008.4765625,
+      "virtual_weight": 41.5625
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L18_f1318",
+      "weight": -5944.7734375,
+      "virtual_weight": -34.4375
+    },
+    {
+      "source": "feat_p27_L11_f7556",
+      "target": "feat_p27_L18_f1318",
+      "weight": 5617.79296875,
+      "virtual_weight": 22.359375
+    },
+    {
+      "source": "feat_p27_L15_f65",
+      "target": "feat_p27_L18_f1318",
+      "weight": 4700.7890625,
+      "virtual_weight": 15.65625
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "feat_p27_L14_f282",
+      "weight": 6538.8203125,
+      "virtual_weight": 11.1015625
+    },
+    {
+      "source": "feat_p27_L12_f329",
+      "target": "feat_p27_L14_f282",
+      "weight": 3773.40234375,
+      "virtual_weight": 20.71875
+    },
+    {
+      "source": "feat_p27_L8_f35",
+      "target": "feat_p27_L14_f282",
+      "weight": 3556.0546875,
+      "virtual_weight": 12.3046875
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L14_f282",
+      "weight": -2431.5849609375,
+      "virtual_weight": -14.0859375
+    },
+    {
+      "source": "feat_p27_L13_f247",
+      "target": "feat_p27_L14_f282",
+      "weight": 2415.4296875,
+      "virtual_weight": 12.96875
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "feat_p27_L12_f329",
+      "weight": 3497.1875,
+      "virtual_weight": 5.9375
+    },
+    {
+      "source": "feat_p27_L9_f9187",
+      "target": "feat_p27_L12_f329",
+      "weight": 1888.4931640625,
+      "virtual_weight": 7.45703125
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L12_f329",
+      "weight": -1874.599609375,
+      "virtual_weight": -10.859375
+    },
+    {
+      "source": "feat_p27_L0_f131",
+      "target": "feat_p27_L12_f329",
+      "weight": 1468.015625,
+      "virtual_weight": 15.6171875
+    },
+    {
+      "source": "feat_p27_L3_f166",
+      "target": "feat_p27_L12_f329",
+      "weight": 1284.24072265625,
+      "virtual_weight": 15.5078125
+    },
+    {
+      "source": "feat_p27_L8_f35",
+      "target": "feat_p27_L9_f9187",
+      "weight": -2558.1015625,
+      "virtual_weight": -8.8515625
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L9_f9187",
+      "weight": 2437.302734375,
+      "virtual_weight": 8.3828125
+    },
+    {
+      "source": "feat_p27_L8_f33",
+      "target": "feat_p27_L9_f9187",
+      "weight": -1345.703125,
+      "virtual_weight": -10.3515625
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L9_f9187",
+      "weight": -1217.8154296875,
+      "virtual_weight": -7.0546875
+    },
+    {
+      "source": "feat_p27_L0_f285",
+      "target": "feat_p27_L9_f9187",
+      "weight": 1064.6865234375,
+      "virtual_weight": 6.90234375
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "feat_p27_L13_f1572",
+      "weight": 2875.9765625,
+      "virtual_weight": 4.8828125
+    },
+    {
+      "source": "feat_p27_L9_f9187",
+      "target": "feat_p27_L13_f1572",
+      "weight": 2107.119140625,
+      "virtual_weight": 8.3203125
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L13_f1572",
+      "weight": -2008.1142578125,
+      "virtual_weight": -11.6328125
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L13_f1572",
+      "weight": 1360.619140625,
+      "virtual_weight": 4.6796875
+    },
+    {
+      "source": "feat_p27_L10_f5",
+      "target": "feat_p27_L13_f1572",
+      "weight": 1008.1640625,
+      "virtual_weight": 4.80078125
+    },
+    {
+      "source": "feat_p27_L10_f5",
+      "target": "feat_p27_L14_f631",
+      "weight": 2659.453125,
+      "virtual_weight": 12.6640625
+    },
+    {
+      "source": "feat_p27_L12_f329",
+      "target": "feat_p27_L14_f631",
+      "weight": 2623.73828125,
+      "virtual_weight": 14.40625
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L14_f631",
+      "weight": 2398.6875,
+      "virtual_weight": 8.25
+    },
+    {
+      "source": "feat_p27_L8_f35",
+      "target": "feat_p27_L14_f631",
+      "weight": -2366.1875,
+      "virtual_weight": -8.1875
+    },
+    {
+      "source": "feat_p27_L9_f9187",
+      "target": "feat_p27_L14_f631",
+      "weight": 2005.2255859375,
+      "virtual_weight": 7.91796875
+    },
+    {
+      "source": "feat_p27_L8_f35",
+      "target": "feat_p27_L12_f483",
+      "weight": -2610.03125,
+      "virtual_weight": -9.03125
+    },
+    {
+      "source": "feat_p27_L9_f9187",
+      "target": "feat_p27_L12_f483",
+      "weight": 2461.2734375,
+      "virtual_weight": 9.71875
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L12_f483",
+      "weight": 2215.8330078125,
+      "virtual_weight": 7.62109375
+    },
+    {
+      "source": "feat_p27_L11_f476",
+      "target": "feat_p27_L12_f483",
+      "weight": 1698.251953125,
+      "virtual_weight": 10.6640625
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L12_f483",
+      "weight": -1370.88525390625,
+      "virtual_weight": -7.94140625
+    },
+    {
+      "source": "feat_p27_L15_f65",
+      "target": "feat_p27_L17_f1342",
+      "weight": 4930.66796875,
+      "virtual_weight": 16.421875
+    },
+    {
+      "source": "feat_p27_L11_f7556",
+      "target": "feat_p27_L17_f1342",
+      "weight": 4589.23828125,
+      "virtual_weight": 18.265625
+    },
+    {
+      "source": "feat_p27_L14_f151",
+      "target": "feat_p27_L17_f1342",
+      "weight": 3907.357421875,
+      "virtual_weight": 23.171875
+    },
+    {
+      "source": "feat_p27_L11_f476",
+      "target": "feat_p27_L17_f1342",
+      "weight": 2717.203125,
+      "virtual_weight": 17.0625
+    },
+    {
+      "source": "feat_p27_L12_f328",
+      "target": "feat_p27_L17_f1342",
+      "weight": 2649.814453125,
+      "virtual_weight": 17.109375
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L2_f465",
+      "weight": 287.93310546875,
+      "virtual_weight": 1.66796875
+    },
+    {
+      "source": "feat_p27_L0_f131",
+      "target": "feat_p27_L2_f465",
+      "weight": 184.603515625,
+      "virtual_weight": 1.9638671875
+    },
+    {
+      "source": "feat_p27_L0_f195",
+      "target": "feat_p27_L2_f465",
+      "weight": -115.10052490234375,
+      "virtual_weight": -0.71435546875
+    },
+    {
+      "source": "feat_p27_L0_f1069",
+      "target": "feat_p27_L2_f465",
+      "weight": -60.611572265625,
+      "virtual_weight": -1.197265625
+    },
+    {
+      "source": "feat_p27_L0_f285",
+      "target": "feat_p27_L3_f166",
+      "weight": 339.53076171875,
+      "virtual_weight": 2.201171875
+    },
+    {
+      "source": "feat_p27_L2_f465",
+      "target": "feat_p27_L3_f166",
+      "weight": -105.57037353515625,
+      "virtual_weight": -0.78857421875
+    },
+    {
+      "source": "feat_p27_L0_f131",
+      "target": "feat_p27_L3_f166",
+      "weight": 97.48828125,
+      "virtual_weight": 1.037109375
+    },
+    {
+      "source": "feat_p27_L0_f197",
+      "target": "feat_p27_L3_f166",
+      "weight": 73.111572265625,
+      "virtual_weight": 0.986328125
+    },
+    {
+      "source": "feat_p27_L0_f195",
+      "target": "feat_p27_L3_f166",
+      "weight": -61.44464111328125,
+      "virtual_weight": -0.38134765625
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L8_f35",
+      "weight": 895.53271484375,
+      "virtual_weight": 3.080078125
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L8_f35",
+      "weight": -745.11962890625,
+      "virtual_weight": -4.31640625
+    },
+    {
+      "source": "feat_p27_L0_f131",
+      "target": "feat_p27_L8_f35",
+      "weight": 680.3984375,
+      "virtual_weight": 7.23828125
+    },
+    {
+      "source": "feat_p27_L3_f166",
+      "target": "feat_p27_L8_f35",
+      "weight": 515.63720703125,
+      "virtual_weight": 6.2265625
+    },
+    {
+      "source": "feat_p27_L0_f285",
+      "target": "feat_p27_L8_f35",
+      "weight": 278.9755859375,
+      "virtual_weight": 1.80859375
+    },
+    {
+      "source": "feat_p27_L8_f35",
+      "target": "feat_p27_L11_f6920",
+      "weight": -2069.28515625,
+      "virtual_weight": -7.16015625
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L11_f6920",
+      "weight": 2046.607421875,
+      "virtual_weight": 7.0390625
+    },
+    {
+      "source": "feat_p27_L0_f131",
+      "target": "feat_p27_L11_f6920",
+      "weight": 1144.15625,
+      "virtual_weight": 12.171875
+    },
+    {
+      "source": "feat_p27_L9_f9187",
+      "target": "feat_p27_L11_f6920",
+      "weight": 1105.990234375,
+      "virtual_weight": 4.3671875
+    },
+    {
+      "source": "feat_p27_L8_f33",
+      "target": "feat_p27_L11_f6920",
+      "weight": -1048.125,
+      "virtual_weight": -8.0625
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L8_f33",
+      "weight": 519.560791015625,
+      "virtual_weight": 3.009765625
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L8_f33",
+      "weight": 518.750244140625,
+      "virtual_weight": 1.7841796875
+    },
+    {
+      "source": "feat_p27_L0_f131",
+      "target": "feat_p27_L8_f33",
+      "weight": -323.125,
+      "virtual_weight": -3.4375
+    },
+    {
+      "source": "feat_p27_L3_f166",
+      "target": "feat_p27_L8_f33",
+      "weight": -274.96337890625,
+      "virtual_weight": -3.3203125
+    },
+    {
+      "source": "feat_p27_L0_f195",
+      "target": "feat_p27_L8_f33",
+      "weight": 228.155517578125,
+      "virtual_weight": 1.416015625
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "feat_p27_L11_f7556",
+      "weight": 4353.078125,
+      "virtual_weight": 7.390625
+    },
+    {
+      "source": "feat_p27_L9_f9187",
+      "target": "feat_p27_L11_f7556",
+      "weight": 1228.658203125,
+      "virtual_weight": 4.8515625
+    },
+    {
+      "source": "feat_p27_L0_f195",
+      "target": "feat_p27_L11_f7556",
+      "weight": -1204.03173828125,
+      "virtual_weight": -7.47265625
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L11_f7556",
+      "weight": -995.96533203125,
+      "virtual_weight": -5.76953125
+    },
+    {
+      "source": "feat_p27_L8_f35",
+      "target": "feat_p27_L11_f7556",
+      "weight": -839.90625,
+      "virtual_weight": -2.90625
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "feat_p27_L10_f1283",
+      "weight": 1496.658203125,
+      "virtual_weight": 2.541015625
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L10_f1283",
+      "weight": 1298.1533203125,
+      "virtual_weight": 4.46484375
+    },
+    {
+      "source": "feat_p27_L9_f9187",
+      "target": "feat_p27_L10_f1283",
+      "weight": 1262.29296875,
+      "virtual_weight": 4.984375
+    },
+    {
+      "source": "feat_p27_L8_f2358",
+      "target": "feat_p27_L10_f1283",
+      "weight": -763.5205078125,
+      "virtual_weight": -8.6640625
+    },
+    {
+      "source": "feat_p27_L2_f465",
+      "target": "feat_p27_L10_f1283",
+      "weight": 751.47802734375,
+      "virtual_weight": 5.61328125
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "feat_p27_L14_f151",
+      "weight": 6787.3046875,
+      "virtual_weight": 11.5234375
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L14_f151",
+      "weight": -3843.603515625,
+      "virtual_weight": -22.265625
+    },
+    {
+      "source": "feat_p27_L12_f483",
+      "target": "feat_p27_L14_f151",
+      "weight": 3641.85546875,
+      "virtual_weight": 14.640625
+    },
+    {
+      "source": "feat_p27_L8_f35",
+      "target": "feat_p27_L14_f151",
+      "weight": 2569.390625,
+      "virtual_weight": 8.890625
+    },
+    {
+      "source": "feat_p27_L13_f247",
+      "target": "feat_p27_L14_f151",
+      "weight": 2111.318359375,
+      "virtual_weight": 11.3359375
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L13_f247",
+      "weight": -2280.5380859375,
+      "virtual_weight": -13.2109375
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L13_f247",
+      "weight": 1936.4404296875,
+      "virtual_weight": 6.66015625
+    },
+    {
+      "source": "feat_p27_L12_f329",
+      "target": "feat_p27_L13_f247",
+      "weight": 1694.6162109375,
+      "virtual_weight": 9.3046875
+    },
+    {
+      "source": "feat_p27_L3_f166",
+      "target": "feat_p27_L13_f247",
+      "weight": 1455.6884765625,
+      "virtual_weight": 17.578125
+    },
+    {
+      "source": "feat_p27_L0_f131",
+      "target": "feat_p27_L13_f247",
+      "weight": 1322.609375,
+      "virtual_weight": 14.0703125
+    },
+    {
+      "source": "feat_p27_L9_f316",
+      "target": "feat_p27_L11_f476",
+      "weight": 3000.21875,
+      "virtual_weight": 5.09375
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L11_f476",
+      "weight": -1395.8349609375,
+      "virtual_weight": -8.0859375
+    },
+    {
+      "source": "feat_p27_L0_f131",
+      "target": "feat_p27_L11_f476",
+      "weight": 774.765625,
+      "virtual_weight": 8.2421875
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L11_f476",
+      "weight": 722.89990234375,
+      "virtual_weight": 2.486328125
+    },
+    {
+      "source": "feat_p27_L6_f350",
+      "target": "feat_p27_L11_f476",
+      "weight": 470.617919921875,
+      "virtual_weight": 7.69140625
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L12_f328",
+      "weight": 3180.078125,
+      "virtual_weight": 10.9375
+    },
+    {
+      "source": "feat_p27_L9_f9187",
+      "target": "feat_p27_L12_f328",
+      "weight": 2564.15625,
+      "virtual_weight": 10.125
+    },
+    {
+      "source": "feat_p27_L8_f35",
+      "target": "feat_p27_L12_f328",
+      "weight": -2397.796875,
+      "virtual_weight": -8.296875
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L12_f328",
+      "weight": -2353.3642578125,
+      "virtual_weight": -13.6328125
+    },
+    {
+      "source": "feat_p27_L11_f476",
+      "target": "feat_p27_L12_f328",
+      "weight": 1673.369140625,
+      "virtual_weight": 10.5078125
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L8_f2358",
+      "weight": 1283.388671875,
+      "virtual_weight": 4.4140625
+    },
+    {
+      "source": "feat_p27_L6_f350",
+      "target": "feat_p27_L8_f2358",
+      "weight": 470.37890625,
+      "virtual_weight": 7.6875
+    },
+    {
+      "source": "feat_p27_L7_f304",
+      "target": "feat_p27_L8_f2358",
+      "weight": 374.01611328125,
+      "virtual_weight": 4.08203125
+    },
+    {
+      "source": "feat_p27_L2_f465",
+      "target": "feat_p27_L8_f2358",
+      "weight": 372.601318359375,
+      "virtual_weight": 2.783203125
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L8_f2358",
+      "weight": -366.15380859375,
+      "virtual_weight": -2.12109375
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L6_f350",
+      "weight": 592.386962890625,
+      "virtual_weight": 3.431640625
+    },
+    {
+      "source": "feat_p27_L3_f166",
+      "target": "feat_p27_L6_f350",
+      "weight": -440.58837890625,
+      "virtual_weight": -5.3203125
+    },
+    {
+      "source": "feat_p27_L2_f465",
+      "target": "feat_p27_L6_f350",
+      "weight": 390.904541015625,
+      "virtual_weight": 2.919921875
+    },
+    {
+      "source": "feat_p27_L0_f197",
+      "target": "feat_p27_L6_f350",
+      "weight": 261.46435546875,
+      "virtual_weight": 3.52734375
+    },
+    {
+      "source": "feat_p27_L0_f285",
+      "target": "feat_p27_L6_f350",
+      "weight": 204.712646484375,
+      "virtual_weight": 1.3271484375
+    },
+    {
+      "source": "feat_p27_L0_f115",
+      "target": "feat_p27_L7_f304",
+      "weight": -782.88134765625,
+      "virtual_weight": -4.53515625
+    },
+    {
+      "source": "feat_p27_L4_f159",
+      "target": "feat_p27_L7_f304",
+      "weight": 595.69677734375,
+      "virtual_weight": 2.048828125
+    },
+    {
+      "source": "feat_p27_L0_f285",
+      "target": "feat_p27_L7_f304",
+      "weight": 464.85888671875,
+      "virtual_weight": 3.013671875
+    },
+    {
+      "source": "feat_p27_L6_f350",
+      "target": "feat_p27_L7_f304",
+      "weight": -414.210693359375,
+      "virtual_weight": -6.76953125
+    },
+    {
+      "source": "feat_p27_L3_f166",
+      "target": "feat_p27_L7_f304",
+      "weight": -245.849609375,
+      "virtual_weight": -2.96875
+    }
+  ]
+}
